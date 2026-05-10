@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# Nexlib Edtech Project
